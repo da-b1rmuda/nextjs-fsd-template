@@ -19,8 +19,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone <repository-url>
-cd kanbloom
+git clone https://github.com/da-b1rmuda/nextjs-fsd-template
+cd nextjs-fsd-template
 
 # Установка зависимостей
 pnpm install
